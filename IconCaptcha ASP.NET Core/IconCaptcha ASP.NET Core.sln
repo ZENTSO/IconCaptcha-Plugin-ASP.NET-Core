@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconCaptcha ASP.NET Core", "IconCaptcha ASP.NET Core\IconCaptcha ASP.NET Core.csproj", "{E60CBBEF-DE6A-4548-8BDC-CB2E48405D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconCaptcha", "IconCaptcha\IconCaptcha.csproj", "{168AC589-3A27-4C8E-8D99-F569798206EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60CBBEF-DE6A-4548-8BDC-CB2E48405D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60CBBEF-DE6A-4548-8BDC-CB2E48405D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60CBBEF-DE6A-4548-8BDC-CB2E48405D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60CBBEF-DE6A-4548-8BDC-CB2E48405D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168AC589-3A27-4C8E-8D99-F569798206EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168AC589-3A27-4C8E-8D99-F569798206EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168AC589-3A27-4C8E-8D99-F569798206EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168AC589-3A27-4C8E-8D99-F569798206EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {972D25F7-DDF1-4911-90A9-05EBAA947C2C}
+	EndGlobalSection
+EndGlobal
