@@ -5,9 +5,7 @@
     Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
 */
 
-using System.IO;
-using System.Net;
-using System.Web;
+using Microsoft.AspNetCore.Mvc;
 
 namespace IconCaptcha_ASP
 {
