@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1706.3
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconCaptcha ASP.NET Core", "IconCaptcha ASP.NET Core\IconCaptcha ASP.NET Core.csproj", "{E60CBBEF-DE6A-4548-8BDC-CB2E48405D11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconCaptcha ASP.NET Core", "IconCaptcha ASP.NET Core\IconCaptcha ASP.NET Core.csproj", "{E60CBBEF-DE6A-4548-8BDC-CB2E48405D11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconCaptcha", "IconCaptcha\IconCaptcha.csproj", "{168AC589-3A27-4C8E-8D99-F569798206EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconCaptcha", "IconCaptcha\IconCaptcha.csproj", "{2CE7EBFA-4F25-4298-BEF1-85ACB574647F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconCaptchaCore", "IconCaptchaCore\IconCaptchaCore.csproj", "{D3DD0E5F-F415-4EAB-80AC-FF1EF15AD3B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,14 @@ Global
 		{E60CBBEF-DE6A-4548-8BDC-CB2E48405D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E60CBBEF-DE6A-4548-8BDC-CB2E48405D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E60CBBEF-DE6A-4548-8BDC-CB2E48405D11}.Release|Any CPU.Build.0 = Release|Any CPU
-		{168AC589-3A27-4C8E-8D99-F569798206EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{168AC589-3A27-4C8E-8D99-F569798206EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{168AC589-3A27-4C8E-8D99-F569798206EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{168AC589-3A27-4C8E-8D99-F569798206EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE7EBFA-4F25-4298-BEF1-85ACB574647F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE7EBFA-4F25-4298-BEF1-85ACB574647F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE7EBFA-4F25-4298-BEF1-85ACB574647F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE7EBFA-4F25-4298-BEF1-85ACB574647F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3DD0E5F-F415-4EAB-80AC-FF1EF15AD3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DD0E5F-F415-4EAB-80AC-FF1EF15AD3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DD0E5F-F415-4EAB-80AC-FF1EF15AD3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DD0E5F-F415-4EAB-80AC-FF1EF15AD3B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
